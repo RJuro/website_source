@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academia"
+title = "Roman Jurowetzki"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "roman.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.

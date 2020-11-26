@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Michael Vahn
-avatar_image: "user-full.png"
+name: Roman Jurowetzki
+avatar_image: "roman.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -14,15 +14,15 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Innovation Studies and Applied Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Aalborg University Business School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include use of natural language processing in business and innovation research, application of AI technologies in business and industry
 
 # Should the user's education and interests be displayed?
 display_education: false
