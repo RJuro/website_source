@@ -42,6 +42,6 @@ hero_media = "roman.jpg"
   label = "Contact me"
 
 +++
-## My name is **Roman Jurowetzki** and I'm an **Associate Professor** in **Innovation Studies Applied Data Science**
+## My name is **Roman Jurowetzki** and I'm an Associate Professor in **Innovation Studies and Applied Data Science**
 
 This page is under construction :-)
