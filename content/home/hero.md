@@ -42,6 +42,6 @@ hero_media = "roman.jpg"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## My name is **Roman Jurowetzki** and I'm an **Associate Professor** in **Innovation Studies Applied Data Science**
 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
