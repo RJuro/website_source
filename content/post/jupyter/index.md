@@ -1,5 +1,5 @@
 ---
-title: Display Jupyter Notebooks with academia
+title: Display Jupyter Notebooks with academia lala
 subtitle: Learn how to blog in academia using Jupyter notebooks
 summary: Learn how to blog in academia using Jupyter notebooks
 authors:
