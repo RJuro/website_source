@@ -8,7 +8,9 @@ weight = 10  # Order that this section will appear.
 title = "Roman Jurowetzki"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "roman.jpg"
+# hero_media = "roman.jpg"
+hero_media = "hero.jpg"
+
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -39,9 +41,10 @@ hero_media = "roman.jpg"
   
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "Contact"
 
 +++
 ## My name is **Roman Jurowetzki** and I'm an Associate Professor in **Innovation Studies and Applied Data Science**
 
+Image by [Franki Chamaki](https://unsplash.com/@franki)
 This page is under construction :-)

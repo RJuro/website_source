@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "https://sourcethemes.com/academic/docs/install/"
+- url : "/files/CV.pdf"
   label : "Download Resume"
 
 # Is this the primary user of the site?
@@ -19,30 +19,31 @@ role: Associate Professor of Innovation Studies and Applied Data Science
 # Organizations/Affiliations
 organizations:
 - name: Aalborg University Business School
-  url: ""
+  url: "https://business.aau.dk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include use of natural language processing in business and innovation research, application of AI technologies in business and industry
+bio: My research interests include the use of natural language processing in innovation research, application of AI technologies in business and industry
 
 # Should the user's education and interests be displayed?
 display_education: false
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Innovation and Technological Change
+- Management of AI
+- Natural Language Processing
+- Social Data Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Innovation Economics
+    institution: Aalborg University, Denmark
+    year: 2016
+  - course: MSc Innovation, Knowledge and Economic Dynamics
+    institution: Aalborg University, Denmark
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Governance and Public Policy
+    institution: University of Passau, Germany
+    year: 2010
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -54,21 +55,21 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/RJurowetzki
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=9Zwa75gAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rjuro
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ #- icon: cv
+ #  icon_pack: ai
+ #  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
