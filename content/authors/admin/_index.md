@@ -78,8 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Roman Jurowetzki is an Associate Professor of Innovation Studies and Applied Data Science at Aalborg University Business School, Denmark and Lab Director of the AI Growth Lab. 
+Roman has been working with computational methods and particularly Natural Language Processing since his PhD work in 2012. He has co-founded the Social Data Science semester at AAU which introduces social science, business and economics students to Machine Learning and AI methods. Since 2020 the program is also thought at Copenhagen Business School and in part at the University of Strasbourg. In addition to graduate programs he has been disseminating ML and NLP techniques in at conferences (DRUID, AOM Big Data) at PhD courses and in the context of executive training. Roman’s research focuses on technological change, in particular AI technology and its application.
+Starting 2021 Roman will be the PI of the [AI Denmark project](http://aidenmark.dk/) at Aalborg University. The project will be the national flagship initiative of the Danish Industrial Foundation with the aim to facilitate value creation from AI technology in Danish SMEs.
 
-![reviews](../../img/certifacates.jpg)
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
