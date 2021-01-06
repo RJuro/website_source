@@ -45,6 +45,3 @@ hero_media = "hero.jpg"
 
 +++
 ## My name is **Roman Jurowetzki** and I'm an Associate Professor in **Innovation Studies and Applied Data Science**
-
-Image by [Franki Chamaki](https://unsplash.com/@franki)
-This page is under construction :-)
