@@ -59,6 +59,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9Zwa75gAAAAJ&hl=en&oi=ao
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rjurowetzki/
 - icon: github
   icon_pack: fab
   link: https://github.com/rjuro
